@@ -1,0 +1,5 @@
+#kutu1{width: 100vw; height: 10vh; background-color: red;}
+#kutu2{width: 100vw; height: 10vh; background-image: linear-gradient( #f234f2, #f21754);}
+#kutu3{width: 100vw; height: 10vh; opacity: 0.3; background-color: blue;}
+#kutu4{width: 100vw; height: 10vh; background: url("beyoglu.jpg")left top no-repeat,url("besiktas.jpg")right bottom no-repeat,green; color: aqua;}
+#kutu5{width: 100vw; height: 40vh; text-decoration: underline; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 4vh;}
